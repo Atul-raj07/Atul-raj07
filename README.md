@@ -31,5 +31,3 @@ MERN stack Developer
 <a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Atul-raj07&bg_color=0f172a&color=a855f7&line=10b981&point=a855f7&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Atul-raj07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-raj07&langs_count=10&title_color=ffffff&text_color=a855f7&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
