@@ -1,3 +1,6 @@
+PREVIEW
+MARKDOWN
+COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atul Raj Gupta
 ======================================================================================================================================
 
@@ -24,8 +27,8 @@ MERN stack Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-stats.vercel.app/api?username=Atul-raj07&show_icons=true&hide=stars,issues,&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Atul-raj07's GitHub stats" /></a>
+<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-stats.vercel.app/api?username=Atul-raj07&show_icons=true&hide=stars,issues,&count_private=true&title_color=ef4444&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Atul-raj07's GitHub stats" /></a>
 
-<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-raj07&stroke=3382ed&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-raj07&stroke=3382ed&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/Atul-raj07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-raj07&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Atul-raj07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-raj07&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
