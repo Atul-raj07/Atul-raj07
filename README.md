@@ -20,14 +20,12 @@ MERN stack Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Atul-raj07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/atul-raj-gupta-523213217/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-stats.vercel.app/api?username=Atul-raj07&show_icons=true&hide=stars,issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="Atul-raj07's GitHub stats" /></a>
+<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-stats.vercel.app/api?username=Atul-raj07&show_icons=true&hide=stars,issues,&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Atul-raj07's GitHub stats" /></a>
 
-<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-raj07&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Atul-raj07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-raj07&stroke=3382ed&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/Atul-raj07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-raj07&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Atul-raj07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-raj07&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
