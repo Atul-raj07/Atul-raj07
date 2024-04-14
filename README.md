@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 MERN stack Developer
 --------------------
-
-👩‍💻 Final-year Bcom student , diving into programming and aspiring Full Stack Developer. Currently mastered HTML, CSS, and JavaScript while setting sights on the MERN stack for comprehensive web development. Join me in crafting the future of web experiences! 🚀💻✨
+
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [atulrajgupta12j@gmail.com](mailto:atulrajgupta12j@gmail.com)
